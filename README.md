@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/rubytree33/github-stats#gh-dark-mode-only">
-<img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/rubytree33/github-stats#gh-light-mode-only">
-<img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+<p align='center'>
+  <a href="https://github.com/rubytree33/github-stats#gh-dark-mode-only">
+    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-dark-mode-only" />
+    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/rubytree33/github-stats#gh-light-mode-only">
+    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-light-mode-only" />
+    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-light-mode-only" />
+  </a>
+</p>
