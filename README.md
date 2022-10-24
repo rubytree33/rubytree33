@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hey! I'm a full-stack web developer with a range of open-source and hobby experience. I have a passion for finding novel and correct solutions to problems both in software and design. Interested in building for employers and/or clients while further developing my technical skills.
+
+I have a [website](http://rubytree33.github.io/) with [source here](https://github.com/rubytree33/rubytree33.github.io).
+
+---
+
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-DF4C30?style=for-the-badge&logo=html5&logoColor=white" /></a>
 ![](https://img.shields.io/badge/CSS3-2952DB?style=for-the-badge&logo=css3&logoColor=white)
 <a href="https://tailwindcss.com/">![](https://img.shields.io/badge/Tailwind_CSS-41BEF5?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
