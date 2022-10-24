@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-  <a href="https://github.com/rubytree33/github-stats#gh-dark-mode-only">
-    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-dark-mode-only" />
-    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/rubytree33/github-stats#gh-light-mode-only">
-    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-light-mode-only" />
-    <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-light-mode-only" />
-  </a>
-</p>
-
-<!-- for alignment after the stats -->
-<p />
-
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-DF4C30?style=for-the-badge&logo=html5&logoColor=white" /></a>
 ![](https://img.shields.io/badge/CSS3-2952DB?style=for-the-badge&logo=css3&logoColor=white)
 <a href="https://tailwindcss.com/">![](https://img.shields.io/badge/Tailwind_CSS-41BEF5?style=for-the-badge&logo=tailwindcss&logoColor=white)</a>
@@ -47,3 +33,12 @@ Here are some ideas to get you started:
 <a href="https://www.vim.org/">![](https://img.shields.io/badge/vim-0F7E12?style=for-the-badge&logo=vim&logoColor=white)</a>
 <a href="https://www.latex-project.org/">![](https://img.shields.io/badge/LaTeX-11807F?style=for-the-badge&logo=latex&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![](https://img.shields.io/badge/VS_Code-0E68B5?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
+
+<a href="https://github.com/rubytree33/github-stats#gh-dark-mode-only">
+  <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-dark-mode-only" />
+  <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/rubytree33/github-stats#gh-light-mode-only">
+  <img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg?#gh-light-mode-only" />
+  <img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg?#gh-light-mode-only" />
+</a>
