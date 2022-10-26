@@ -7,7 +7,7 @@ I have a [website](http://rubytree33.github.io/) with [source here](https://gith
 Reach me here or at [LinkedIn](https://www.linkedin.com/in/rubytree33/).
 <p><a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-DF4C30?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-2952DB?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-41BEF5?style=for-the-badge&amp;logo=tailwind_css&amp;logoColor=white"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-41BEF5?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white"/></a>
 <a href="https://pugjs.org/"><img src="https://img.shields.io/badge/pug-E8C7A2?style=for-the-badge&amp;logo=pug&amp;logoColor=black"/></a>
 <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-C36493?style=for-the-badge&amp;logo=sass&amp;logoColor=white"/></a>
 </p><p><a href="https://262.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F1D939?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/></a>
@@ -22,5 +22,5 @@ Reach me here or at [LinkedIn](https://www.linkedin.com/in/rubytree33/).
 <a href="https://github.com/#gh-dark-mode-only"><img src="https://img.shields.io/badge/GitHub-EEEEEE?style=for-the-badge&amp;logo=github&amp;logoColor=black#gh-dark-mode-only"/></a>
 <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/vim-0F7E12?style=for-the-badge&amp;logo=vim&amp;logoColor=white"/></a>
 <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-11807F?style=for-the-badge&amp;logo=latex&amp;logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0E68B5?style=for-the-badge&amp;logo=vs_code&amp;logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-0E68B5?style=for-the-badge&amp;logo=vscode&amp;logoColor=white"/></a>
 </p><p><a href="https://github.com/rubytree33/github-stats#gh-dark-mode-only"><img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/><img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/></a><a href="https://github.com/rubytree33/github-stats#gh-light-mode-only"><img src="https://github.com/rubytree33/github-stats/blob/master/generated/overview.svg#gh-light-mode-only"/><img src="https://github.com/rubytree33/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"/></a></p>

@@ -11,7 +11,7 @@
 
 mixin badge(name, color, logoColor, link, mode)
   a(href= link + modeString(mode))
-    img(src= `https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${name.replace('/[ _]','').toLowerCase()}&logoColor=${logoColor}` + modeString(mode))
+    img(src= `https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${name.replaceAll(/[ _]/g,'').toLowerCase()}&logoColor=${logoColor}` + modeString(mode))
   |
   |
 
