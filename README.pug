@@ -9,16 +9,18 @@
 
 - const modeString = mode => mode ? `#gh-${mode}-mode-only` : ''
 
+- const logoName = name => name === 'VS Code' ? 'VisualStudioCode' : name.replaceAll(' ','')
+
 mixin badge(name, color, logoColor, link, mode)
   a(href= link + modeString(mode))
-    img(src= `https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${name.replaceAll(/[ _]/g,'').toLowerCase()}&logoColor=${logoColor}` + modeString(mode))
+    img(src= `https://img.shields.io/badge/${name.replaceAll(' ','_')}-${color}?style=for-the-badge&logo=${logoName(name)}&logoColor=${logoColor}` + modeString(mode))
   |
   |
 
 p
   +badge('HTML5',         'DF4C30', 'white', 'https://html.spec.whatwg.org/multipage/')
   +badge('CSS3',          '2952DB', 'white', 'https://www.w3.org/Style/CSS/')
-  +badge('Tailwind_CSS',  '41BEF5', 'white', 'https://tailwindcss.com/')
+  +badge('Tailwind CSS',  '41BEF5', 'white', 'https://tailwindcss.com/')
   +badge('pug',           'E8C7A2', 'black', 'https://pugjs.org/')
   +badge('Sass',          'C36493', 'white', 'https://sass-lang.com/')
 
@@ -37,7 +39,7 @@ p
   +badge('GitHub',        'EEEEEE', 'black', 'https://github.com/', 'dark')
   +badge('vim',           '0F7E12', 'white', 'https://www.vim.org/')
   +badge('LaTeX',         '11807F', 'white', 'https://www.latex-project.org/')
-  +badge('VS_Code',       '0E68B5', 'white', 'https://code.visualstudio.com/')
+  +badge('VS Code',       '0E68B5', 'white', 'https://code.visualstudio.com/')
 
 - const statsRepo = 'https://github.com/rubytree33/github-stats'
 - const statsURL = name => `${statsRepo}/blob/master/generated/${name}.svg`
