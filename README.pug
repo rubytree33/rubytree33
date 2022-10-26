@@ -1,0 +1,52 @@
+.
+  <!-- ** Compiled from README.pug ** -->
+
+  Hey! I'm a full-stack web developer with a range of open-source and hobby experience. I have a passion for finding novel and correct solutions to problems both in software and design. Interested in building for employers and/or clients while further developing my technical skills.
+
+  I have a [website](http://rubytree33.github.io/) with [source here](https://github.com/rubytree33/rubytree33.github.io).
+
+  Reach me here or at [LinkedIn](https://www.linkedin.com/in/rubytree33/).
+
+- const modeString = mode => mode ? `#gh-${mode}-mode-only` : ''
+
+mixin badge(name, color, logoColor, link, mode)
+  a(href= link + modeString(mode))
+    img(src= `https://img.shields.io/badge/${name}-${color}?style=for-the-badge&logo=${name.replace('/[ _]','').toLowerCase()}&logoColor=${logoColor}` + modeString(mode))
+  |
+  |
+
+p
+  +badge('HTML5',         'DF4C30', 'white', 'https://html.spec.whatwg.org/multipage/')
+  +badge('CSS3',          '2952DB', 'white', 'https://www.w3.org/Style/CSS/')
+  +badge('Tailwind_CSS',  '41BEF5', 'white', 'https://tailwindcss.com/')
+  +badge('pug',           'E8C7A2', 'black', 'https://pugjs.org/')
+  +badge('Sass',          'C36493', 'white', 'https://sass-lang.com/')
+
+p
+  +badge('JavaScript',    'F1D939', 'black', 'https://262.ecma-international.org/')
+  +badge('TypeScript',    '1967C0', 'white', 'https://www.typescriptlang.org/')
+  +badge('React',         '282C34', '67DAF9', 'https://reactjs.org/')
+  +badge('Redux',         '764EB9', 'white', 'https://redux.js.org/')
+  +badge('Node.js',       '0D6D0E', 'white', 'https://nodejs.org/en/')
+  +badge('Next.js',       '111111', 'white', 'https://nextjs.org/', 'light')
+  +badge('Next.js',       'EEEEEE', 'black', 'https://nextjs.org/', 'dark')
+
+p
+  +badge('git',           'F24E32', 'white', 'https://git-scm.com/')
+  +badge('GitHub',        '111111', 'white', 'https://github.com/', 'light')
+  +badge('GitHub',        'EEEEEE', 'black', 'https://github.com/', 'dark')
+  +badge('vim',           '0F7E12', 'white', 'https://www.vim.org/')
+  +badge('LaTeX',         '11807F', 'white', 'https://www.latex-project.org/')
+  +badge('VS_Code',       '0E68B5', 'white', 'https://code.visualstudio.com/')
+
+- const statsRepo = 'https://github.com/rubytree33/github-stats'
+- const statsURL = name => `${statsRepo}/blob/master/generated/${name}.svg`
+
+mixin stats(mode)
+  a(href= statsRepo + modeString(mode))
+    img(src= statsURL('overview') + modeString(mode))
+    img(src= statsURL('languages') + modeString(mode))
+
+p
+  +stats('dark')
+  +stats('light')
