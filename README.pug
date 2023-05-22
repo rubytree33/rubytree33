@@ -21,23 +21,27 @@ mixin badgeInvert(name, link)
   +badge(name, '111111', 'white', link, 'light')
   +badge(name, 'EEEEEE', 'black', link, 'dark')
 
-p
-  +badge('HTML5',         'DF4C30', 'white', 'https://html.spec.whatwg.org/multipage/')
-  +badge('CSS3',          '2952DB', 'white', 'https://www.w3.org/Style/CSS/')
-  +badge('Tailwind CSS',  '41BEF5', 'white', 'https://tailwindcss.com/')
-  +badge('pug',           'E8C7A2', 'black', 'https://pugjs.org/')
-  +badge('Sass',          'C36493', 'white', 'https://sass-lang.com/')
+  //- +badge('HTML5',         'DF4C30', 'white', 'https://html.spec.whatwg.org/multipage/')
+  //- +badge('CSS3',          '2952DB', 'white', 'https://www.w3.org/Style/CSS/')
+  //- +badge('JavaScript',    'F1D939', 'black', 'https://262.ecma-international.org/')
+  //- +badge('git',           'F24E32', 'white', 'https://git-scm.com/')
+  //- +badge('Node.js',       '0D6D0E', 'white', 'https://nodejs.org/en/')
 
 p
-  +badge('JavaScript',    'F1D939', 'black', 'https://262.ecma-international.org/')
   +badge('TypeScript',    '1967C0', 'white', 'https://www.typescriptlang.org/')
-  +badge('React',         '282C34', '67DAF9', 'https://reactjs.org/')
+  +badge('Solid',         '446b9e', 'white', 'https://www.solidjs.com/')
+  +badge('Tailwind CSS',  '41BEF5', 'white', 'https://tailwindcss.com/')
+  +badge('Sass',          'C36493', 'white', 'https://sass-lang.com/')
+  +badge('Vite',          '646cff', 'white', 'https://vitejs.dev/')
+
+p
+  +badge('React',         '282C34', '67DAF9','https://reactjs.org/')
   +badge('Redux',         '764EB9', 'white', 'https://redux.js.org/')
-  +badge('Node.js',       '0D6D0E', 'white', 'https://nodejs.org/en/')
+  +badge('Preact',        '673ab8', 'white', 'https://preactjs.com/')
+  +badge('pug',           'E8C7A2', 'black', 'https://pugjs.org/')
   +badgeInvert('Next.js', 'https://nextjs.org/')
 
 p
-  +badge('git',           'F24E32', 'white', 'https://git-scm.com/')
   +badgeInvert('GitHub', 'https://github.com/')
   +badge('vim',           '0F7E12', 'white', 'https://www.vim.org/')
   +badge('LaTeX',         '11807F', 'white', 'https://www.latex-project.org/')
