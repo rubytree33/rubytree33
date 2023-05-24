@@ -10,7 +10,7 @@ Reach me here or at [LinkedIn](https://www.linkedin.com/in/rubytree33/).
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-41BEF5?style=for-the-badge&amp;logo=TailwindCSS&amp;logoColor=white"/></a>
 <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-C36493?style=for-the-badge&amp;logo=Sass&amp;logoColor=white"/></a>
 <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&amp;logo=Vite&amp;logoColor=white"/></a>
-</p><p><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&amp;logo=React&amp;logoColor=67DAF9"/></a>
+</p><p><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&amp;logo=React&amp;logoColor=white"/></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764EB9?style=for-the-badge&amp;logo=Redux&amp;logoColor=white"/></a>
 <a href="https://preactjs.com/"><img src="https://img.shields.io/badge/Preact-673ab8?style=for-the-badge&amp;logo=Preact&amp;logoColor=white"/></a>
 <a href="https://pugjs.org/"><img src="https://img.shields.io/badge/pug-E8C7A2?style=for-the-badge&amp;logo=pug&amp;logoColor=black"/></a>
